@@ -1,3 +1,3 @@
 # git-checkout-example
 
-Branch: master
+Branch: development
